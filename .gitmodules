@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dhglm"]
+	path = dhglm
+	url = https://github.com/cran/dhglm
+	shallow = true
+	registered = true
+[submodule "frailtyHL"]
+	path = frailtyHL
+	url = https://github.com/cran/frailtyHL
+	shallow = true
+	registered = true
+[submodule "mdhglm"]
+	path = mdhglm
+	url = https://github.com/cran/mdhglm
+	shallow = true
+	registered = true
