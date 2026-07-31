@@ -8,6 +8,3 @@
 [submodule "frailtyHL"]
 	path = frailtyHL
 	url = https://github.com/cran/frailtyHL
-[submodule "mdhglm"]
-	path = mdhglm
-	url = https://github.com/cran/mdhglm
